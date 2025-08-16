@@ -1,7 +1,7 @@
 ---
 title: Course website is live!
 week: 0
-date: 2024-11-22
+date: 2025-08-18
 ---
 
-First class on January 8, 2025 at 2:20pm at Jennings Hall 60.
+First class on August 27, 2025 at 2:20pm at Denney Hall 253.
