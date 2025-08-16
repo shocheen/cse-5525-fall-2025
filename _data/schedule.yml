@@ -1,0 +1,101 @@
+- section: Elements of a Simple NLP System
+  lectures:
+    - date: 27-Aug
+      topic: Course Overview / Introduction
+      badges:
+        - text: HW1 Out
+          color: green
+    - date: 29-Aug
+      topic: Text Classification, Data Basics, Perceptron
+    - date: 03-Sep
+      topic: Neural Network Basics
+
+- section: Language Modeling Fundamentals
+  lectures:
+    - date: 05-Sep
+      topic: Lexical Semantics, Word Embeddings
+    - date: 10-Sep
+      topic: N-gram Language Models
+      badges:
+        - text: HW1 Due
+          color: red
+        - text: HW2 Out
+          color: green
+    - date: 12-Sep
+      topic: Tokenization
+    - date: 17-Sep
+      topic: Neural Language Models, Attention...
+    - date: 19-Sep
+      topic: Transformers
+    - date: 24-Sep
+      topic: "Pre-training 1: Encoders (BERT)"
+      badges:
+        - text: HW2 Due (Feb 10)
+          color: red
+    - date: 26-Sep
+      topic: "Pre-training 2: BART/T5/GPT, Decoding Methods"
+    - date: 01-Oct
+      topic: "Pre-training 3: Scaling, Prompting, In-Context Learning, Chain-of-Thought"
+
+- section: Learning from Labeled Data
+  lectures:
+    - date: 03-Oct
+      topic: "Alignment I: Instruction Tuning"
+      badges:
+        - text: FP Proposals Due
+          color: red
+        - text: HW3 Out
+          color: green
+    - date: 08-Oct
+      topic: "Alignment II: Reward Modeling / Preference Optimization"
+    - date: 10-Oct
+      topic: "Parameter Efficient Finetuning: (Q)LoRA"
+    - date: 15-Oct
+      topic: Benchmarking
+    - date: 17-Oct
+      topic: Autumn Break
+
+- section: Linguistic Structure Prediction
+  lectures:
+    - date: 22-Oct
+      topic: "Sequence Tagging"
+      badges:
+        - text: HW3 Due
+          color: red
+    - date: 24-Oct
+      topic: "Parsing"
+
+- section: Modern LMs in Practice
+  lectures:
+    - date: 29-Oct
+      topic: Interpretability
+    - date: 31-Oct
+      topic: "Efficiency"
+    - date: 05-Nov
+      topic: "Multimodal LMs"
+    - date: 07-Nov
+      topic: "Multilingual LMs"
+      badges:
+        - text: FP Check in Due
+          color: red
+    - date: 12-Nov
+      topic: Retrieval
+    - date: 14-Nov
+      topic: Agents"
+    - date: 19-Nov
+      topic: Multilinguality
+    - date: 21-Nov
+      topic: Safety and Ethics
+    - date: 26-Nov
+      topic: Thanksgiving Break
+    - date: 28-Nov
+      topic: Thanksgiving Break
+    - date: 03-Dec
+      topic: TBD
+    - date: 05-Dec
+      topic: FP Presentations
+    - date: 10-Dec
+      topic: FP Presentations
+      badges:
+        - text: "FP Final Reports Due April 25"
+          color: red
