@@ -29,9 +29,9 @@ The course will introduce core problems and methodologies in NLP, including mach
 
 ---
 
-**Lectures**: Denney Hall 253, WF 2:20-3:40 pm ET 
+**Lectures**: WF 2:20-3:40 pm ET 
 
-**Lecture Location**: 
+**Lecture Location**: Denney Hall 253
 
 ## Prerequisite Knowledge
 
