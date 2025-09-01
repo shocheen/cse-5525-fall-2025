@@ -10,4 +10,4 @@ The code and dataset can be downloaded [here]({{ site.url }}/{{ site.baseurl }}/
 
 The autograder for HW1 is ready. You can now submit your assignments to gradescope to view your scores. Please remember to follow all the instructions in the pdf prior to uploading your submissions - particularly wrt to how to zip your files. 
 
-All the best!
+The deadline for this assignment is Sept. 10 11:59 pm (late day policies apply). All the best!
